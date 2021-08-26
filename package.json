@@ -1,0 +1,19 @@
+{
+  "name": "wechatcanvas",
+  "version": "1.0.0",
+  "description": "一个封装了新版微信api的快捷构建小程序海报的npm库，对着设计稿通过简单的链式操作即可完成，无需关心其他",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@gitee.com:c_jiaming/wechat_canvas.git"
+  },
+  "keywords": [
+    "canvas",
+    "微信小程序"
+  ],
+  "author": "cnjm",
+  "license": "MIT"
+}
