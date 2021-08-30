@@ -1,6 +1,6 @@
 {
   "name": "wechatcanvas",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个封装了新版微信api的快捷构建小程序海报的npm库，对着设计稿通过简单的链式操作即可完成，无需关心其他",
   "main": "index.js",
   "scripts": {
